@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #e0e7ff; /* Background color */
+    background-color: #92a4df; /* Background color */
 }
 
 .container {
@@ -23,5 +23,23 @@ h1 {
     margin-bottom: 20px;
     color: #4a4a4a; /* Header color */
 }
+label {
+    font-size: 16px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
 
 /* Add more styles here as needed */
